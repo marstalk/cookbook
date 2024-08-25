@@ -229,6 +229,7 @@ const item_detail= [
     {item_name: item_name_english_words, date: "2024-08-14", work: 9, time: "09:00"},
     {item_name: item_name_english_words, date: "2024-08-15", work: 18, time: "09:00"},
     {item_name: item_name_english_words, date: "2024-08-16", work: 13, time: "09:00"},
+    {item_name: item_name_self_project, date: "2024-08-25", work: 1, time: "18:00"}, 
 ]
 
 

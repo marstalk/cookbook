@@ -523,6 +523,37 @@ So help me God, I got the job -> believe me or not,
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 # Olympics 2024 in Paris
 # Country
@@ -531,6 +562,10 @@ Spain
 Netherlands荷兰 -> Dutch荷兰人， 荷兰的
 Kazakhstan 哈萨克斯坦
 Ireland爱尔兰
+Sweden Sweden Krona - SEK 瑞典克朗  /'krəʊnə/
+Stockholm 瑞典斯德哥尔摩  /'stɔkhəum/
+Malmo 瑞典马尔默
+Copenhagen 丹麦哥本哈根/ˌkəupən'heiɡən/
 
 
 # Locationd
@@ -690,6 +725,40 @@ doping test\scandal\violation\controversy 兴奋剂检查\丑闻\争论
 
 # smear 抹黑/smɪə(r)/
 smear China with persistent doping allegation against it's swim team.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2711,7 +2780,7 @@ What matter is how it's conducted，如何**处理**
 # conductor
 导体 -> conductivity导电性 -> insulator绝缘体
 - electricity conductor
-- lightning conductor 避雷针
+- lightning conductor 避雷针 -> electric shock点击
 - good/poor conductor不良导体
 售票员
 Can you see the conductor over there?
@@ -3061,4 +3130,32 @@ high and mighty 趾高气昂的
 The Germans thought daylight saving time would conserve energy. 节约能源
 
 ---
-# 
+# instructor 讲师
+tutor导师 -> private tutor家庭教师 -> tutor system
+mentor指导员
+lecturer讲师
+instruct教学 => teach => eduate -> coach -> train -> tutor
+
+---
+# dazzle  /ˈdæzl/ 耀眼的光 n.   v.炫目
+spark火花 -> impress/surprise/astonish/amaze/stunning/shine -> torch火炬
+
+---
+# academic 
+academic community/research/inquiry
+
+# achiever成功人士
+achievement n. -> milestone -> 
+
+# fulfillment 完成
+Yes, There is a fulfillment comes with that. 满足感 => sense of contentment /kən'tentm(ə)nt/
+I need to get a sense of fulfillment from the job. 获得成就感
+Where your life fulfillment comes from can be very individual. 人生成就 因人而异。
+There are many paths to the happiness and fulfillment. 
+
+
+# accomplish v 完成
+accomplishment 成就 -> sense of accomplishment成就感
+It's really huge accomplishment for me. 巨大的成就
+
+--- 

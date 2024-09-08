@@ -3159,3 +3159,43 @@ accomplishment 成就 -> sense of accomplishment成就感
 It's really huge accomplishment for me. 巨大的成就
 
 --- 
+# content
+immediate content in communication 及时消息 = real-time => instant -> delayed message 
+immediate content in education: 
+immediate content 即可满足感。
+
+content -> contentment(n) -> contention => contend
+
+# contend争吵，主张
+contention => argument -> contend(v)竞争 => compete => contest => rival
+
+This is something that supermarkets are **contending with** for weeks.
+The highspeed railway has to contend with the airlines and expressways. 竞争
+
+# contender 竞争者
+challenger -> rival -> mighty rival
+
+But some Republican presidential contender are weighing in. 总统竞选人正在参与进来。
+If there was such a thing as a perfect food, the egg would be a contender.
+
+---
+# emergence
+The emergence of smartphone changed almost every aspects of our lives.
+
+---
+# backward compatibility 向后兼容
+sustainable ecosystem
+strong community support
+Java's commitment to backward compatibility.
+continuous evolution
+make it cornerstone of sustainable software development.
+
+# longevity 寿命
+
+# exponential backoff 指数退避 
+
+---
+# inadequate不合适的，无法胜任的
+
+
+

@@ -411,6 +411,9 @@ fiction: not true, people make up. books: **fiction VS non-fiction(not not true)
 Oman: 阿曼
 UAE：United Arab Emirates： 阿联酋
 Saudi Arabi: 沙特阿拉伯
+Madrid: 马德里 /mə'drid/
+Bulgaria 英 /bʌlˈɡɛəriə/ 保加利亚
+
 
 digital nomands数字游民
 
@@ -3181,6 +3184,7 @@ If there was such a thing as a perfect food, the egg would be a contender.
 ---
 # emergence
 The emergence of smartphone changed almost every aspects of our lives.
+VS emergency 紧急情况
 
 ---
 # backward compatibility 向后兼容
@@ -3190,12 +3194,21 @@ Java's commitment to backward compatibility.
 continuous evolution
 make it cornerstone of sustainable software development.
 
-# longevity 寿命
+# longevity 寿命 /lɒnˈdʒevəti/
+Having a good habits may help to extend longevity by decades. 健康习惯可以延长寿命。
+The secret to longevity is an age old question. 寿命的秘诀是老问题。
+
 
 # exponential backoff 指数退避 
 
 ---
 # inadequate不合适的，无法胜任的
+
+---
+The evolution of English education in China over the decades **mirros** the country's significant **cultrual transformation**. 
+
+This year marks the 75th anniversary of the founding of the People's Republic of China. The country has make tremendous progress in **popularizing and advancing** English learning. 普及和加强，as well as fostering cross-cultual communication.
+
 
 
 

@@ -1,0 +1,13 @@
+/* set background-color for body element */
+/* also can set element like h1, p(paragram) */
+body {
+     background-color: rgb(37,78,84);
+}
+
+/* 
+selector {
+     declaration1; = property: value;
+     declaration2; = property: value;
+     ...
+}
+*/

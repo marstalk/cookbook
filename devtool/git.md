@@ -121,6 +121,8 @@ git push -u origin --tags
 如果要修改已经存在的remote，可以：
 ```shell
 git remote set-url origin ssh:xxxxx.git
+# or
+git remote remove origin
 ```
 
 # rollback

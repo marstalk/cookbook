@@ -483,5 +483,7 @@ Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=512m; sup
 [DEBUG] Reading user settings from /Users/louisliu/.m2/settings.xml
 ```
 
+or `mvn help:effective-settings`
+
 
 

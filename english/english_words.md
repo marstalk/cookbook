@@ -3210,5 +3210,9 @@ The evolution of English education in China over the decades **mirros** the coun
 This year marks the 75th anniversary of the founding of the People's Republic of China. The country has make tremendous progress in **popularizing and advancing** English learning. 普及和加强，as well as fostering cross-cultual communication.
 
 
+# other
+1. The name rings a bell. 这个名字有点映像，（教堂的钟声响起，唤醒了我的某些记忆，有点映象）
+2. I can't remember where I met her, but her face definitly rings a bell. (can recognize the person's face, but can't recall the exact context.)
+3. The tune rings a bell, but I can't remember the name of the song.旋律有点映象，但是想不起来歌名
 
 

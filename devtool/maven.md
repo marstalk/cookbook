@@ -473,5 +473,15 @@ mvn test -Dtest='simpleClassName' -DskipTests=false
 go to `pom.xml` directory(root or sub-module), then `mvn dependency:tree`
 
 
+# how to find out which settings.xml is currently used?
+`mvn -X |grep settings`
+```shell
+➜  mvn -X |grep settings
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=512m; support was removed in 8.0
+[DEBUG]   Imported: org.apache.maven.settings < plexus.core
+[DEBUG] Reading global settings from /usr/local/Cellar/maven/3.6.0/libexec/conf/settings.xml
+[DEBUG] Reading user settings from /Users/louisliu/.m2/settings.xml
+```
+
 
 

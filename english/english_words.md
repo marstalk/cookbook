@@ -239,7 +239,7 @@ eletricity, used in many ways. university.
 
 heat\light\sound -> energy, ------light and gas bill.
 much more powerful energy.
-power plant (produce) | nuclear power plant (vapour) -> wire (transport) -> lamp, **give off** the light, **put out** fire, setup desk, make a bed, 
+power plant (produce) | nuclear power plant (vapour) -> wire (transport) -> lamp, **give off** the light, **put out** fire灭火, setup desk, make a bed, 
 fuel(燃料), bured to make heat and power.
 
 battery: store electricity, **you gointo moutains, go into nature** 
@@ -252,6 +252,15 @@ electricity can **run through** water and metal like coppler.
 **blackout**停电、晕过去，She had a blackout after the accident.
 **blacktop**柏油路, blacktop road is much common in china
 bronze(copper) can conduct electricity -> conductor导体
+
+blackout: 停电、晕过去， 
+blackboard黑板
+blacktop
+blackland黑土地
+blacken变黑 诽谤
+blackberry
+blacklist
+blacklead石墨
 
 ## Motion
 force, motion, gravity
@@ -694,7 +703,7 @@ The mysterious ancient oriental cultures have been **applealing** to the Western
 sturdy结实 -> robust健壮 -> strong -> tough -> fit -> health -> sound
 
 # patriotic /ˌpætriˈɒtɪk/爱国的
-patriotism爱国主义 -> patriot /ˈpætriət/ -> nationalism名族主义
+patriotism爱国主义 -> patriot /ˈpætriət/ -> nationalism名族主义 -> repatriate遣返
 
 # redeem赎回 /rɪˈdiːm/
 redeemable可赎回的
@@ -726,9 +735,16 @@ torch bearer -> flag bearer -> torch man
 doping allegation兴奋剂指控
 doping test\scandal\violation\controversy 兴奋剂检查\丑闻\争论
 
-# smear 抹黑/smɪə(r)/
+---
+# smear 抹黑/smɪə(r)/ v. n.
 smear China with persistent doping allegation against it's swim team.
+There is no such plan, and I've been calling this a smear. 抹黑
 
+smears n. = smear
+
+# besmear弄脏 败坏/bɪ'smɪə/ v.
+
+# blacken诽谤
 
 
 
@@ -3209,6 +3225,18 @@ The evolution of English education in China over the decades **mirros** the coun
 
 This year marks the 75th anniversary of the founding of the People's Republic of China. The country has make tremendous progress in **popularizing and advancing** English learning. 普及和加强，as well as fostering cross-cultual communication.
 
+---
+# fabricate/ˈfæbrɪkeɪt/
+fabric n,纺织物 -> fabrics纤维织物 -> fabricate 编造，虚构，捏造 -> fabricator捏造者 -> fabrication制造 fabrication techniques 工艺技术 -> fabricable: fabricable meterial可塑造的材料
+
+fabricate -> smear -> blacken
 
 
+--- 
+# deport 逃离，放逐
+deport -> expel -> exile -> repatriate遣返
+the refugees were forcely repatriated
 
+# patriate是成为本国公民 = naturalize
+patriot爱国者
+patriate 本国公民

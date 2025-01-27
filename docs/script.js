@@ -23,7 +23,7 @@ function getPastDays(days) {
     const result = [];
     const today = new Date();
 
-    for (let i = 0; i < days; i++) {
+    for (let i = 1; i < days; i++) {
         const pastDate = new Date(today);
         pastDate.setDate(today.getDate() - i);
         result.push(formatDate(pastDate));
@@ -31,6 +31,10 @@ function getPastDays(days) {
 
     return result;
 }
+
+// calculate difference between two dates
+function date_diff(date1, date2) { 
+    const diffTime = Math.abs(date2 - date1);
 
 function renderCalendarWithDefaultColor(days, calendar_name) {
     const monthLabels = document.querySelector(`.calendar[calendar_name="${calendar_name}"] .month-labels`);

@@ -64,7 +64,7 @@ mercury水星, jupiter木星, venus（金星）, Saturn（土星）, Mars,
 obtain through treaties(通过条约获得)
 by purchase
 some were annexed.吞并， by force.
-the glacier is melting because of the global warming. > open new trade rout > reduce duration and cost of sea shipping.
+the glacier is melting because of the global warming. > open new trade rout > reduce duration and cost of sea shipping. -> the Arctic
 NATO countries(北大西洋公约) and Russia is increasing the millitary presence in Artic cycle.
 oil reseve is rich containing 15% of total of the world. as well as deposite of gas.
 all countries unit the stable future of become a bone of **contention**?
@@ -3178,14 +3178,14 @@ accomplishment 成就 -> sense of accomplishment成就感
 It's really huge accomplishment for me. 巨大的成就
 
 --- 
-# content
+# content 内容，满足 con`tent
 immediate content in communication 及时消息 = real-time => instant -> delayed message 
 immediate content in education: 
 immediate content 即可满足感。
 
 content -> contentment(n) -> contention => contend
 
-# contend争吵，主张
+# contend争吵，主张 con`tend
 contention => argument -> contend(v)竞争 => compete => contest => rival
 
 This is something that supermarkets are **contending with** for weeks.
@@ -3244,3 +3244,36 @@ the refugees were forcely repatriated
 # patriate是成为本国公民 = naturalize
 patriot爱国者
 patriate 本国公民
+
+# Danmark EU USA Greenland NATO
+NATO: north atlantic treaty organization. 北大西洋公约组织
+Panama Canal 巴拿马/ˌpænə'mɑ:/ 
+Nuuk (nuke) the capital city of Greenland
+Suez Canal 苏伊士运河
+
+1. read some news
+    - refuse to **rule out** economic or military force to take controle of it. 排除
+    - with two NATO allies **at odds over** a huge territory with **untapped mineral wealth**. 争执, 未开发矿产资源。
+    - one speculation that Trump's move is just a bluster. /'blʌstə/ 咆哮，虚张声势
+    - irony of fate 命运的讽刺
+    - defence college 国防大学
+    - vote for independent and Denmark **ratify** it, 批准
+    - rare earth element(mineral) 稀土
+    - imperialism帝国主义 -> empire帝王  -> capitalism资本主义 -> 
+    - shift spotlight away from controversal cabinet selections.
+    - American Hyper-nationalist 
+    - rebuff 拒绝 -> refuse -> deny -> 
+    - prerequisite 前提
+    - provocation 挑衅 -> provocative adj -> provocateur 内奸
+2. watch some video on youtube/tiktok
+3. writing a short essay
+
+# reluctant不情愿的
+reluctant -> reduantant冗余的
+feel reluctant to part 恋恋不舍
+
+# consulate
+consulate general总领馆
+consulate 领事馆
+
+# rebuff

@@ -3275,5 +3275,26 @@ feel reluctant to part 恋恋不舍
 # consulate
 consulate general总领馆
 consulate 领事馆
+envoy 使者，特使
+
 
 # rebuff
+
+come to my life, this is cool, right.
+But if you want to make a first priority to do,
+you need to pledge first.
+
+This is written in my first macbook pro.
+
+
+# benchmark, latency, redundancy
+We run benchmarks to compare the performance of the two database system.
+The baseline performance is 1000 requrst per second.
+
+The new caching layer reduced API latency by 50%.
+Higher throughput often comes at the cost of increased latency.
+
+We add redundancy to the system by deploying multiple instances across regions.
+The failover mechanism ensure high availability during outage.
+
+welcome to my life this is so cool

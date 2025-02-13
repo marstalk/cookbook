@@ -38,6 +38,7 @@ vegetation植物
 orchid兰花
 olive
 broccoli花椰菜
+tulips郁金香 /'tjʊləp/
 
 
 
@@ -2634,7 +2635,7 @@ The habit of traveling by aircraft is becoming more prevalent each year.
 prevalent -> equivalent等同的 -> relevant有关的
 
 # countervail补偿，抵消
-countervail => offset
+countervail => offset -> encounter
 
 # reveal /rɪˈviːl/
 泄露，揭露，曝光 -> disclose -> expose -> uncover ->

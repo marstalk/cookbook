@@ -358,3 +358,35 @@ Migrate, zero business disruption.
 - microeconomics and macroeconomics
 
 
+# metrics-driven
+- The rafactor planning is **metrics-driven**, focusing on reducing **technical debt**, requires the **stakeholder buy-in** from VP of engineering.
+- We need to present this proposal in a metrics-driven way and address the security concern in the **Q&A session**.
+- The decison to scale is metrics-driven, the latency increased by 200% last month.
+- 
+
+# tech debt
+to pay/triage/reduce/avoid tech debt
+In our quarterly meeting 季度会议, we will conduct **technical debt triage** to prioritize critial refactoring 技术债分类
+The login modules tech debt is causing 40% of our P1 bugs.
+Why should we puase new features to pay down tech debt? The client expect updates next month
+
+
+# critical service
+non-critical service
+
+# buy vs. build
+The **buy vs. build analysis** shows that licensing a CMS is faster but **limits customization**. but all the provided features meets our requirements.
+Buying this SaaS tools save our 6 month of dev time - buy vs. build case is clear.
+build core system in-house 自研核心系统
+
+
+# influence without authority
+As a staff engineer, I **drive architectual changes** through influence with authority.
+Build trust via data-sharing, not mandates(命令\授权)
+I use **metrics-driven arguments** to influcence without authority on **adopting GraphQL**.
+
+
+Through influence without authority, we drove the tech debt triage for critial modules and decided to build core system in-house.
+
+
+

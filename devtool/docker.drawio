@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="ikglfaxU6gVibC58FBHc" name="Page-1">
-        <mxGraphModel dx="2478" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2109" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -72,6 +72,11 @@
                 </mxCell>
                 <mxCell id="99" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="17" target="97">
                     <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="107" value="speed up" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="99">
+                    <mxGeometry x="-0.0149" y="1" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="17" value="register Account for personal&lt;div&gt;login with github Acc&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
                     <mxGeometry x="450" y="45" width="260" height="50" as="geometry"/>
@@ -270,7 +275,7 @@
                         <mxPoint x="-1" y="7" as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="97" value="Speedup&lt;div&gt;systemctl restart docker&lt;/div&gt;&lt;div&gt;brew services restart docker&lt;/div&gt;&lt;div&gt;more:https://gist.github.com/y0ngb1n/7e8f16af3242c7815e7ca2f0833d3ea6&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                <mxCell id="97" value="&lt;div&gt;systemctl restart docker&lt;/div&gt;&lt;div&gt;brew services restart docker&lt;/div&gt;&lt;div&gt;more:https://gist.github.com/y0ngb1n/7e8f16af3242c7815e7ca2f0833d3ea6&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
                     <mxGeometry x="1315" y="40" width="450" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="100" value="&lt;pre style=&quot;box-sizing: border-box; font-family: var(--fontStack-monospace, ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace); font-size: 13.6px; margin-top: 0px; margin-bottom: 0px; overflow-wrap: normal; padding: var(--base-size-16); overflow: auto; line-height: 1.45; color: rgb(31, 35, 40); background-color: var(--bgColor-muted, var(--color-canvas-subtle)); border-radius: 6px; word-break: normal; text-align: start;&quot;&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;pl-s&quot;&gt;{&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;pl-s&quot;&gt;    &quot;registry-mirrors&quot;: [&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;pl-s&quot;&gt;        &quot;https://dockerproxy.com&quot;,&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;pl-s&quot;&gt;        &quot;https://docker.mirrors.ustc.edu.cn&quot;,&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;pl-s&quot;&gt;        &quot;https://docker.nju.edu.cn&quot;&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;pl-s&quot;&gt;    ]&lt;/span&gt;&lt;br/&gt;&lt;span style=&quot;box-sizing: border-box;&quot; class=&quot;pl-s&quot;&gt;}&lt;/span&gt;&lt;/pre&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">

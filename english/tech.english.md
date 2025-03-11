@@ -388,5 +388,6 @@ I use **metrics-driven arguments** to influcence without authority on **adopting
 
 Through influence without authority, we drove the tech debt triage for critial modules and decided to build core system in-house.
 
+# Career growth and promotion
 
 

@@ -1,0 +1,84 @@
+<mxfile host="65bd71144e">
+    <diagram id="ddZumWBMBDodQWUOzIZE" name="Page-1">
+        <mxGraphModel dx="1915" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="3">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="2" target="5">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="刘家琨&lt;div&gt;成都人&lt;/div&gt;&lt;div&gt;重庆大学&lt;/div&gt;&lt;div&gt;恢复高考后第一届&lt;/div&gt;&lt;div&gt;家琨建筑事务所&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="150" y="130" width="220" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="写小说" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="290" width="110" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="5" target="17">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="建筑设计" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="250" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="地域文化、材料" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="140" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="传统工艺" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
+                    <mxGeometry x="550" y="140" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="环保理念" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
+                    <mxGeometry x="680" y="140" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="瑕疵美学" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
+                    <mxGeometry x="810" y="140" width="100" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="17" target="19">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="西村大院" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="270" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="19" target="22">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="鹿野苑石刻博物馆" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="410" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="22" target="24">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="成都喜来登酒店" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="510" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="24" target="26">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="胡慧珊纪念馆" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="520" y="600" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="26" target="29">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="玉林西路小酒馆外观设计" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="500" y="710" width="160" height="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="29" target="31">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="成都高新区天府软件园交流中心" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+                    <mxGeometry x="440" y="790" width="280" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://img1.jiemian.com/101/original/20250305/174110626292917000_a700xH.jpg;" vertex="1" parent="1">
+                    <mxGeometry x="890" y="550" width="1216.39" height="530" as="geometry"/>
+                </mxCell>
+                <UserObject label="Link" link="https://www.jiakun.com" id="36">
+                    <mxCell style="text;html=1;strokeColor=none;fillColor=none;whiteSpace=wrap;align=center;verticalAlign=middle;fontColor=#0000EE;fontStyle=4;" vertex="1" parent="1">
+                        <mxGeometry x="410" y="270" width="60" height="40" as="geometry"/>
+                    </mxCell>
+                </UserObject>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

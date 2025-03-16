@@ -391,3 +391,12 @@ Through influence without authority, we drove the tech debt triage for critial m
 # Career growth and promotion
 
 
+# Thank you for the joint efforts of getting this resolved in the nick of time.
+感谢团队在最后时刻把问题都解决了，保证了项目的准时上限。
+
+# STAR to organize the answer to behavior interview.
+- situation
+
+- task
+- action
+- result

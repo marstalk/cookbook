@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="ikglfaxU6gVibC58FBHc" name="Page-1">
-        <mxGraphModel dx="1083" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="1852" dy="1088" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -297,114 +297,124 @@
                 <mxCell id="109" value="$ docker network create somenetwork" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
                     <mxGeometry x="255" y="775" width="230" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="118" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="113" target="117">
+                <mxCell id="118" value="" style="edgeStyle=none;html=1;" parent="1" source="113" target="117" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="113" value="Name Space" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="113" value="Name Space" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="120" y="1650" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="116" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="114" target="115">
+                <mxCell id="116" value="" style="edgeStyle=none;html=1;" parent="1" source="114" target="115" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="114" value="Cgroup" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="114" value="Cgroup" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="280" y="1650" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="115" value="to limit hardward resource for container" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="115" value="to limit hardward resource for container" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="480" y="1650" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="117" value="to isolate containers" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="117" value="to isolate containers" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="120" y="1790" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="121" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="119" target="120">
+                <mxCell id="121" value="" style="edgeStyle=none;html=1;" parent="1" source="119" target="120" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="119" value="&lt;div&gt;Client:&lt;/div&gt;docker-cli" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="119" value="&lt;div&gt;Client:&lt;/div&gt;docker-cli" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="670" y="1650" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="120" value="&lt;div&gt;Server:&lt;/div&gt;docker deamon" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="120" value="&lt;div&gt;Server:&lt;/div&gt;docker deamon" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="870" y="1650" width="170" height="180" as="geometry"/>
                 </mxCell>
-                <mxCell id="122" value="Docker engine&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="122" value="Docker engine&lt;div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="895" y="1770" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="135" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="123" target="134">
+                <mxCell id="135" value="" style="edgeStyle=none;html=1;" parent="1" source="123" target="134" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="123" value="Dockerfile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="123" value="Dockerfile" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="370" y="1960" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="125" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="124" target="123">
+                <mxCell id="125" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="124" target="123" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="127" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="124" target="126">
+                <mxCell id="127" value="" style="edgeStyle=none;html=1;" parent="1" source="124" target="126" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="124" value="Single container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
+                <mxCell id="156" value="microservice?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="127">
+                    <mxGeometry x="-0.2" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="124" value="Single container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
                     <mxGeometry x="120" y="1960" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="129" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="126" target="128">
+                <mxCell id="129" value="" style="edgeStyle=none;html=1;" parent="1" source="126" target="128" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="131" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="126" target="130">
+                <mxCell id="131" value="" style="edgeStyle=none;html=1;" parent="1" source="126" target="130" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="126" value="Multiple container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
+                <mxCell id="157" value="HA and Scalability" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="131">
+                    <mxGeometry x="-0.24" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="126" value="Multiple container" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
                     <mxGeometry x="120" y="2100" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="137" value="" style="edgeStyle=none;html=1;" edge="1" parent="1" source="128" target="136">
+                <mxCell id="137" value="" style="edgeStyle=none;html=1;" parent="1" source="128" target="136" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="128" value="docker-compose.yml" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="128" value="docker-compose.yml" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="370" y="2100" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="141" value="" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="130" target="132">
+                <mxCell id="141" value="" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="130" target="132" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="143" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="130" target="142">
+                <mxCell id="143" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="130" target="142" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="130" value="scalable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" vertex="1" parent="1">
+                <mxCell id="130" value="scalable" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCE6;" parent="1" vertex="1">
                     <mxGeometry x="120" y="2260" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="139" value="" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="132" target="138">
+                <mxCell id="139" value="" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="132" target="138" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="145" style="edgeStyle=none;html=1;" edge="1" parent="1" source="132" target="142">
+                <mxCell id="145" style="edgeStyle=none;html=1;" parent="1" source="132" target="142" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="132" value="docker swarm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="132" value="docker swarm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="370" y="2200" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="134" value="frontend APP&lt;div&gt;backend API&lt;/div&gt;&lt;div&gt;DB&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="134" value="frontend APP&lt;div&gt;backend API&lt;/div&gt;&lt;div&gt;DB&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="570" y="1960" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="136" value="user service&lt;div&gt;payment service&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="136" value="user service&lt;div&gt;payment service&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="570" y="2100" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="138" value="host machine A&lt;div&gt;host machine B&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="590" y="2250" width="120" height="60" as="geometry"/>
+                <mxCell id="138" value="host machine A&lt;div&gt;host machine B&lt;/div&gt;&lt;div&gt;...&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="570" y="2260" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="144" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="142" target="138">
+                <mxCell id="144" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="142" target="138" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="146" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="142" target="132">
+                <mxCell id="146" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="142" target="132" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="147" value="Rival" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="146">
+                <mxCell id="147" value="Rival" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="146" vertex="1" connectable="0">
                     <mxGeometry x="0.1714" relative="1" as="geometry">
                         <mxPoint as="offset"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="142" value="k8s" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                <mxCell id="142" value="k8s" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="370" y="2320" width="120" height="60" as="geometry"/>
                 </mxCell>
-                <mxCell id="150" value="Basic Usage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="1">
+                <mxCell id="150" value="Basic Usage" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;" parent="1" vertex="1">
                     <mxGeometry x="5" width="840" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="154" value="Tech" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="1">
+                <mxCell id="154" value="Tech" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;" parent="1" vertex="1">
                     <mxGeometry x="5" y="1560" width="840" height="20" as="geometry"/>
                 </mxCell>
-                <mxCell id="155" value="VS k8s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;" vertex="1" parent="1">
+                <mxCell id="155" value="VS k8s" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9999FF;" parent="1" vertex="1">
                     <mxGeometry x="5" y="1900" width="840" height="20" as="geometry"/>
                 </mxCell>
             </root>

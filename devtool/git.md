@@ -87,7 +87,7 @@ git config --system --unset credential.helper
 Configure Git for the first time
 ```shell
 git config --global user.name "Louis Liu"
-git config --global user.email "louisl@synnex.com"
+git config --global user.email "louisl@test.com"
 ```
 
 ```shell
@@ -104,7 +104,7 @@ cd existing-project
 git init
 git add --all
 git commit -m "Initial Commit"
-git remote add origin ssh://git@git.synnex.org/~louisl/prm_cvent_sync.git
+git remote add origin ssh://git@git.test.org/~louisl/prm_cvent_sync.git
 git push -u origin master
 ```
 
@@ -113,7 +113,7 @@ My code is already tracked by Git
 If your code is already tracked by Git then set this repository as your "origin" to push to.
 ```shell
 cd existing_repo
-git remote add origin git@git.chinawayltd.com:paas/yak.git
+git remote add origin git@git.test.com:paas/yak.git
 git push -u origin --all
 git push -u origin --tags
 ```
